@@ -1,7 +1,0 @@
-{
-  "/page": "app/page.js",
-  "/privacidade/page": "app/privacidade/page.js",
-  "/(pt-pt)/pt-pt/page": "app/(pt-pt)/pt-pt/page.js",
-  "/api/rate/route": "app/api/rate/route.js",
-  "/api/history/route": "app/api/history/route.js"
-}

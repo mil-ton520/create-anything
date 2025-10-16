@@ -1,0 +1,23 @@
+# Dependências e builds
+node_modules/
+.next/
+dist/
+out/
+build/
+coverage/
+turbo/
+apps/**/node_modules/
+apps/**/.next/
+
+# Ambiente / segredos
+.env
+.env.*
+.env.local
+*.key
+*.pem
+
+# Sistema/IDE
+.DS_Store
+.vscode/
+*.log
+

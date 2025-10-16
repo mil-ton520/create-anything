@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST="{\"components/HistoryPanel.tsx -> @/components/charts/HistoryArea\":{\"id\":\"components/HistoryPanel.tsx -> @/components/charts/HistoryArea\",\"files\":[\"static/chunks/_app-pages-browser_components_charts_HistoryArea_tsx.js\"]}}"
